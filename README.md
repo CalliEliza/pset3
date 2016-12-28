@@ -1,3 +1,3 @@
 # pset3
 
-assignments associated with CS50 course on EDX.org
+Code for assignment for an online course.
